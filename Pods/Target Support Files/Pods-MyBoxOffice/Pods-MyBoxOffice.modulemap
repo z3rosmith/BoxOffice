@@ -1,0 +1,6 @@
+framework module Pods_MyBoxOffice {
+  umbrella header "Pods-MyBoxOffice-umbrella.h"
+
+  export *
+  module * { export * }
+}
